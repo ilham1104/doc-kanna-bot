@@ -16,7 +16,7 @@
 
 <br>
 <h1>Feature</h1>
-<a href="">CLICK TO VIEW FEATURES</a>
+<a href="https://github.com/ilham1104/docs-kanna-bot/blob/main/feature.md">CLICK TO VIEW FEATURES</a>
 <br>
 
 <h1 align="center"> Connect with me
