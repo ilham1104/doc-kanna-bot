@@ -10,7 +10,7 @@
 
 <h1></h1>
 <div align="center">
-<img class="mt-1" alt="Download" src="https://img.shields.io/badge/DOWNLOAD SC-25D366?style=for-the-badge"/>
+<a href="https://semawur.com/xZOxEPxuX"><img class="mt-1" alt="Download" src="https://img.shields.io/badge/DOWNLOAD SC-25D366?style=for-the-badge"/></a>
 <img class="mt-1" alt="Tutorial" src="https://img.shields.io/badge/TUTORIAL YT%20-red?&style=for-the-badge"/>
 </div>
 
