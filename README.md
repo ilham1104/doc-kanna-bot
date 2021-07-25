@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-<img class="mt-1" alt="Download" src="https://img.shields.io/badge/DOWNLOAD%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img class="mt-1" alt="Tutorial" src="https://img.shields.io/badge/Tutorial YT%20-red?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img class="mt-1" alt="Download" src="https://img.shields.io/badge/DOWNLOAD SC-25D366?style=for-the-badge"/>
+<img class="mt-1" alt="Tutorial" src="https://img.shields.io/badge/TUTORIAL YT%20-red?&style=for-the-badge"/>
 </div>
 
 <br>
